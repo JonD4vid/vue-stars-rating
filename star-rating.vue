@@ -179,7 +179,7 @@ export default {
     display: flex;
   }
   .star-container:not(:last-child) {
-    margin-right: 5px;
+    margin-right: 0px;
   }
 }
 </style>
